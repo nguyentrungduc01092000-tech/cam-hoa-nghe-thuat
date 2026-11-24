@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img">
+  <title>Sơ đồ bàn làm việc nhỏ với vị trí đặt bình hoa</title>
+  <desc>Sơ đồ tự vẽ, không phải ảnh chụp thật. Mặt bàn có màn hình, bàn phím và bình hoa thấp đặt ở góc trái, phía tay không thuận, cách xa ổ điện.</desc>
+  <rect x="0" y="0" width="640" height="420" fill="#f7f3ec"/>
+  <text x="320" y="30" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Bàn làm việc nhỏ — đặt bình hoa ở góc trái</text>
+  <!-- desk -->
+  <rect x="60" y="120" width="520" height="200" fill="#d9c1a3" stroke="#8a6d4b" stroke-width="2"/>
+  <rect x="60" y="320" width="20" height="70" fill="#8a6d4b"/>
+  <rect x="560" y="320" width="20" height="70" fill="#8a6d4b"/>
+  <!-- monitor -->
+  <rect x="270" y="60" width="180" height="110" fill="#3a3a3a" stroke="#222" stroke-width="2"/>
+  <rect x="282" y="72" width="156" height="86" fill="#bcd6e8"/>
+  <rect x="340" y="170" width="40" height="14" fill="#3a3a3a"/>
+  <text x="360" y="122" text-anchor="middle" font-size="14" font-family="sans-serif" fill="#333">Màn hình</text>
+  <text x="360" y="200" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#555">Mép dưới màn hình</text>
+  <line x1="270" y1="184" x2="450" y2="184" stroke="#c0392b" stroke-width="2" stroke-dasharray="5,4"/>
+  <text x="455" y="188" font-size="13" font-family="sans-serif" fill="#c0392b">Trần của bình hoa</text>
+  <!-- keyboard -->
+  <rect x="270" y="230" width="200" height="46" fill="#eeeeee" stroke="#999" stroke-width="1"/>
+  <text x="370" y="258" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#555">Bàn phím</text>
+  <!-- mouse -->
+  <ellipse cx="510" cy="255" rx="22" ry="14" fill="#dddddd" stroke="#999" stroke-width="1"/>
+  <text x="510" y="290" text-anchor="middle" font-size="12" font-family="sans-serif" fill="#555">Chuột</text>
+  <!-- vase at left corner -->
+  <rect x="80" y="150" width="70" height="90" fill="#7fa8c9" stroke="#4a6b8a" stroke-width="2"/>
+  <rect x="95" y="150" width="40" height="12" fill="#a8c8e0"/>
+  <line x1="115" y1="150" x2="100" y2="110" stroke="#2e7d32" stroke-width="3"/>
+  <line x1="115" y1="150" x2="120" y2="100" stroke="#2e7d32" stroke-width="3"/>
+  <line x1="115" y1="150" x2="135" y2="112" stroke="#2e7d32" stroke-width="3"/>
+  <circle cx="100" cy="106" r="10" fill="#e8a0b4"/>
+  <circle cx="120" cy="96" r="10" fill="#f2c14e"/>
+  <circle cx="135" cy="108" r="10" fill="#e8a0b4"/>
+  <text x="115" y="262" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#333">Bình thấp, nặng</text>
+  <text x="115" y="280" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#333">ở góc trái</text>
+  <!-- power outlet far right -->
+  <rect x="520" y="130" width="44" height="34" fill="#ffffff" stroke="#666" stroke-width="1"/>
+  <circle cx="534" cy="147" r="4" fill="#666"/>
+  <circle cx="550" cy="147" r="4" fill="#666"/>
+  <text x="542" y="182" text-anchor="middle" font-size="12" font-family="sans-serif" fill="#555">Ổ điện</text>
+  <line x1="160" y1="170" x2="515" y2="150" stroke="#c0392b" stroke-width="2" stroke-dasharray="4,4"/>
+  <text x="330" y="140" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#c0392b">Bình cách xa ổ điện</text>
+  <!-- tray under vase -->
+  <rect x="72" y="240" width="86" height="8" fill="#b0a090"/>
+  <text x="320" y="360" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#555">Một bình hoa nhỏ, đặt lệch một bên, phía tay không thuận</text>
+  <text x="320" y="382" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#555">Tổng chiều cao bình và hoa nằm dưới mép dưới màn hình</text>
+</svg>

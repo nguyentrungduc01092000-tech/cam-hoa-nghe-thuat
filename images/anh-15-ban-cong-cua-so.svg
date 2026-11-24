@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-labelledby="t15 d15">
+  <title id="t15">Sơ đồ ban công nhìn từ trên xuống: chậu nặng đặt sát sàn ở góc khuất gió, máng dài chạy dọc tường trong lan can, vị trí trên lan can được đánh dấu chéo vì không được đặt chậu ở đó</title>
+  <desc id="d15">Sơ đồ tự vẽ nhìn từ trên xuống, minh họa cho bài viết, không phải ảnh thật. Tường nhà ở phía trên, cửa ra vào ở giữa tường. Lan can ở phía dưới. Góc tường trái là nơi khuất gió, đặt chậu nặng. Máng dài chạy dọc tường trong lan can. Mặt lan can được đánh dấu chéo đỏ, nghĩa là không đặt chậu ở đó. Mũi tên gió thổi từ phía dưới lên.</desc>
+  <rect width="800" height="520" fill="#fdf8f2"/>
+  <text x="400" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#5b3a29">Sơ đồ ban công: chậu nặng ở góc khuất gió</text>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#7a6a5f">Nhìn từ trên xuống — mọi chậu đặt sát sàn, phía trong lan can</text>
+
+  <!-- House wall at top -->
+  <rect x="120" y="90" width="560" height="18" fill="#8a6d4b"/>
+  <text x="400" y="82" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a6d4b">TƯỜNG NHÀ</text>
+
+  <!-- Balcony floor -->
+  <rect x="120" y="108" width="560" height="300" fill="#f7ead9" stroke="#8a6d4b" stroke-width="4"/>
+
+  <!-- Door in the wall -->
+  <rect x="360" y="90" width="80" height="18" fill="#fff" stroke="#8a6d4b" stroke-width="3"/>
+  <text x="400" y="138" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#5b3a29">Cửa ra vào</text>
+
+  <!-- Sheltered corner (top-left) -->
+  <rect x="140" y="130" width="150" height="110" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2" stroke-dasharray="8 4"/>
+  <text x="215" y="158" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">Góc khuất gió</text>
+  <circle cx="180" cy="195" r="26" fill="#bcaaa4" stroke="#5b3a29" stroke-width="3"/>
+  <text x="180" y="200" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#fff">Chậu</text>
+  <text x="180" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#fff">nặng</text>
+  <circle cx="250" cy="195" r="26" fill="#bcaaa4" stroke="#5b3a29" stroke-width="3"/>
+  <text x="250" y="200" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#fff">Chậu</text>
+  <text x="250" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#fff">nặng</text>
+  <text x="215" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#5b3a29">Buộc vào móc tường</text>
+
+  <!-- Long trough along the wall, inside railing -->
+  <rect x="330" y="150" width="320" height="56" rx="8" fill="#a1887f" stroke="#5b3a29" stroke-width="3"/>
+  <text x="490" y="184" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#fff">Máng dài chạy liền — hoa thấp phủ mép</text>
+
+  <!-- Grouped pots in the middle -->
+  <circle cx="400" cy="290" r="30" fill="#bcaaa4" stroke="#5b3a29" stroke-width="3"/>
+  <circle cx="470" cy="290" r="30" fill="#bcaaa4" stroke="#5b3a29" stroke-width="3"/>
+  <circle cx="540" cy="290" r="30" fill="#bcaaa4" stroke="#5b3a29" stroke-width="3"/>
+  <text x="470" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#5b3a29">Cụm chậu gom lại — che chắn cho nhau</text>
+
+  <!-- Railing at bottom -->
+  <rect x="120" y="408" width="560" height="14" fill="#8a6d4b"/>
+  <text x="400" y="446" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#5b3a29">LAN CAN</text>
+
+  <!-- Red X on the railing: no pots here -->
+  <line x1="180" y1="392" x2="240" y2="438" stroke="#c62828" stroke-width="6"/>
+  <line x1="240" y1="392" x2="180" y2="438" stroke="#c62828" stroke-width="6"/>
+  <text x="210" y="470" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#c62828">Không đặt chậu trên lan can</text>
+
+  <!-- Wind arrows from below -->
+  <line x1="620" y1="490" x2="620" y2="440" stroke="#1565c0" stroke-width="4"/>
+  <polygon points="620,428 608,450 632,450" fill="#1565c0"/>
+  <text x="660" y="470" font-family="sans-serif" font-size="14" fill="#1565c0">Gió thổi tới</text>
+
+  <!-- Note -->
+  <text x="400" y="505" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a6a5f">Chậu cao dồn vào góc sát tường — chậu thấp phủ mép máng — không treo giỏ ra ngoài lan can</text>
+</svg>

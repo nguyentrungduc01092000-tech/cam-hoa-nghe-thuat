@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" role="img" aria-labelledby="t17 d17">
+  <title id="t17">Sơ đồ ba tầng đặt hoa trong nhà có trẻ nhỏ và thú cưng: kệ cao, giá treo tường và bàn cao ngoài tầm với</title>
+  <desc id="d17">Sơ đồ tự vẽ, không phải ảnh chụp thật. Ba tầng đặt hoa an toàn: tầng cao nhất là kệ sát trần, tầng giữa là giá treo tường, tầng dưới là bàn cao; bàn trà thấp và sàn nhà được gạch chéo vì trẻ nhỏ và thú cưng với tới được.</desc>
+  <rect width="760" height="420" fill="#fdf8f0"/>
+  <text x="380" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#5b3a29">Ba tầng đặt hoa an toàn trong nhà có trẻ nhỏ và thú cưng</text>
+  <!-- Wall -->
+  <rect x="60" y="60" width="640" height="300" fill="#f3e9dc" stroke="#c9a876" stroke-width="2"/>
+  <!-- Floor line -->
+  <line x1="60" y1="360" x2="700" y2="360" stroke="#8a6d4b" stroke-width="3"/>
+  <text x="70" y="385" font-family="sans-serif" font-size="14" fill="#5b3a29">Sàn nhà — trẻ bò tới được, chó mèo đi qua được</text>
+  <!-- Top shelf -->
+  <rect x="120" y="92" width="200" height="10" fill="#8a6d4b"/>
+  <rect x="150" y="62" width="34" height="30" fill="#c96f4a"/>
+  <circle cx="167" cy="52" r="12" fill="#e8a0a0"/>
+  <circle cx="158" cy="46" r="8" fill="#f2c14e"/>
+  <rect x="210" y="66" width="30" height="26" fill="#7a9e7e"/>
+  <text x="220" y="130" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#5b3a29">1. Kệ cao sát trần</text>
+  <!-- Wall hook -->
+  <rect x="440" y="150" width="180" height="10" fill="#8a6d4b"/>
+  <line x1="530" y1="160" x2="530" y2="185" stroke="#8a6d4b" stroke-width="3"/>
+  <rect x="505" y="185" width="50" height="34" fill="#c96f4a"/>
+  <circle cx="530" cy="176" r="10" fill="#f2c14e"/>
+  <text x="530" y="248" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#5b3a29">2. Giá treo tường</text>
+  <!-- Tall table -->
+  <rect x="120" y="280" width="180" height="10" fill="#8a6d4b"/>
+  <rect x="140" y="290" width="8" height="70" fill="#8a6d4b"/>
+  <rect x="272" y="290" width="8" height="70" fill="#8a6d4b"/>
+  <rect x="180" y="246" width="40" height="34" fill="#7a9e7e"/>
+  <circle cx="200" cy="238" r="11" fill="#e8a0a0"/>
+  <text x="210" y="272" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#5b3a29">3. Bàn cao, bình nặng</text>
+  <!-- Crossed out low table -->
+  <rect x="470" y="300" width="150" height="8" fill="#b0a090"/>
+  <rect x="485" y="308" width="7" height="52" fill="#b0a090"/>
+  <rect x="598" y="308" width="7" height="52" fill="#b0a090"/>
+  <rect x="525" y="282" width="34" height="18" fill="#d8cfc4"/>
+  <line x1="470" y1="280" x2="620" y2="360" stroke="#c0392b" stroke-width="4"/>
+  <line x1="620" y1="280" x2="470" y2="360" stroke="#c0392b" stroke-width="4"/>
+  <text x="545" y="335" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#c0392b">Không đặt ở bàn thấp</text>
+  <text x="380" y="410" text-anchor="middle" font-family="sans-serif" font-size="13" font-style="italic" fill="#5b3a29">Sơ đồ tự vẽ, không phải ảnh chụp thật.</text>
+</svg>

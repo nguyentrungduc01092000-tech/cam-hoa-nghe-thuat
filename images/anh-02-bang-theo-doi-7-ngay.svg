@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img">
+<title>Sơ đồ bảng theo dõi hoa 7 ngày</title>
+<desc>Sơ đồ tự vẽ, không phải ảnh chụp thật. Bảng trống 7 hàng để người đọc tự điền mỗi ngày.</desc>
+<rect width="800" height="420" fill="#fdf8f0"/>
+<text x="400" y="28" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Bảng theo dõi hoa 7 ngày — mẫu trống để tự điền</text>
+<g font-family="sans-serif" font-size="13" fill="#333">
+<rect x="60" y="50" width="680" height="30" fill="#d5e8d4" stroke="#333"/><text x="70" y="70">Ngày</text><text x="170" y="70">Việc đã làm</text><text x="380" y="70">Nước trong hay đục</text><text x="560" y="70">Bông tàn đã ngắt?</text>
+<g stroke="#999" fill="none"><line x1="60" y1="110" x2="740" y2="110"/><line x1="60" y1="140" x2="740" y2="140"/><line x1="60" y1="170" x2="740" y2="170"/><line x1="60" y1="200" x2="740" y2="200"/><line x1="60" y1="230" x2="740" y2="230"/><line x1="60" y1="260" x2="740" y2="260"/><line x1="60" y1="290" x2="740" y2="290"/></g>
+<text x="70" y="100">Ngày 1</text><text x="170" y="100">Rửa bình, cắt gốc, tước lá</text>
+<text x="70" y="130">Ngày 2</text><text x="170" y="130">Kiểm tra mực nước</text>
+<text x="70" y="160">Ngày 3</text><text x="170" y="160">Thay nước, rửa bình, cắt lại gốc</text>
+<text x="70" y="190">Ngày 4</text><text x="170" y="190">Ngắt bông tàn</text>
+<text x="70" y="220">Ngày 5</text><text x="170" y="220">Thay nước nếu cần</text>
+<text x="70" y="250">Ngày 6</text><text x="170" y="250">Ngắt lá vàng, vớt cánh rụng</text>
+<text x="70" y="280">Ngày 7</text><text x="170" y="280">Ghi lại: còn tươi bao nhiêu bông?</text>
+</g>
+<text x="400" y="330" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Bảng này là mẫu trống, không phải kết quả thử nghiệm. Bạn in ra hoặc chép vào sổ tay để tự điền.</text>
+<text x="400" y="355" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho Bài 2. Nguồn: tự vẽ bằng SVG, không dùng ảnh mạng.</text>
+</svg>

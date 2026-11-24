@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img">
+<title>Sơ đồ bộ dụng cụ 9 món chia 3 nhóm</title>
+<desc>Sơ đồ tự vẽ, không phải ảnh chụp thật. 9 món chia 3 nhóm: cắt và sơ chế 2 món, giữ và cố định 3 món, hoàn thiện và chăm 4 món.</desc>
+<rect width="800" height="420" fill="#fdf8f0"/>
+<text x="400" y="28" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Bộ dụng cụ 9 món — chia 3 nhóm</text>
+<g font-family="sans-serif" font-size="14" fill="#333">
+<rect x="60" y="60" width="200" height="180" fill="#d5e8d4" stroke="#333"/><text x="160" y="85" text-anchor="middle">Nhóm 1: Cắt</text><text x="160" y="105" text-anchor="middle">và sơ chế</text><text x="160" y="140" text-anchor="middle">1. Kéo cắt cành</text><text x="160" y="165" text-anchor="middle">2. Dao nhỏ</text><text x="160" y="200" text-anchor="middle">2 món</text>
+<rect x="300" y="60" width="200" height="180" fill="#fdebd0" stroke="#333"/><text x="400" y="85" text-anchor="middle">Nhóm 2: Giữ</text><text x="400" y="105" text-anchor="middle">và cố định</text><text x="400" y="140" text-anchor="middle">3. Xốp cắm hoa</text><text x="400" y="165" text-anchor="middle">4. Bình hoặc giỏ</text><text x="400" y="190" text-anchor="middle">5. Băng dính</text><text x="400" y="220" text-anchor="middle">3 món</text>
+<rect x="540" y="60" width="200" height="180" fill="#d6eaf8" stroke="#333"/><text x="640" y="85" text-anchor="middle">Nhóm 3: Hoàn thiện</text><text x="640" y="105" text-anchor="middle">và chăm</text><text x="640" y="140" text-anchor="middle">6. Giấy gói</text><text x="640" y="165" text-anchor="middle">7. Ruy băng</text><text x="640" y="190" text-anchor="middle">8. Bình xịt nước</text><text x="640" y="215" text-anchor="middle">9. Xô dưỡng hoa</text>
+</g>
+<text x="400" y="290" text-anchor="middle" font-size="14" font-family="sans-serif" fill="#333">Tổng: 2 + 3 + 4 = 9 món. Mỗi món chỉ thuộc một nhóm duy nhất.</text>
+<text x="400" y="330" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Sơ đồ chỉ minh họa cách chia nhóm, không phải ảnh chụp thật.</text>
+<text x="400" y="355" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho Bài 5. Nguồn: tự vẽ bằng SVG, không dùng ảnh mạng.</text>
+</svg>

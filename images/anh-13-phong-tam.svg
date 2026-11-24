@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Sơ đồ phòng tắm với vị trí đặt bình hoa xa vòi sen">
+  <title>Sơ đồ phòng tắm: đặt bình hoa xa vòi sen, gần cửa sổ và quạt hút</title>
+  <desc>Sơ đồ tự vẽ, không phải ảnh chụp thật. Sơ đồ mặt bằng phòng tắm nhìn từ trên xuống: khu vực vòi sen ở góc trên bên trái, bình hoa đặt trên lavabo ở đầu xa vòi sen, cửa sổ và quạt hút ở phía dưới.</desc>
+  <rect x="10" y="10" width="620" height="400" fill="#f4f8f8" stroke="#4a7a7a" stroke-width="3"/>
+  <!-- Shower area -->
+  <rect x="30" y="30" width="220" height="150" fill="#cfe6ef" stroke="#4a7a7a" stroke-width="2"/>
+  <circle cx="140" cy="80" r="26" fill="none" stroke="#2f6f8f" stroke-width="3"/>
+  <line x1="140" y1="54" x2="140" y2="30" stroke="#2f6f8f" stroke-width="3"/>
+  <line x1="120" y1="118" x2="120" y2="132" stroke="#2f6f8f" stroke-width="2"/>
+  <line x1="140" y1="118" x2="140" y2="132" stroke="#2f6f8f" stroke-width="2"/>
+  <line x1="160" y1="118" x2="160" y2="132" stroke="#2f6f8f" stroke-width="2"/>
+  <text x="140" y="165" text-anchor="middle" font-size="15" fill="#333">Vòi sen</text>
+  <text x="140" y="196" text-anchor="middle" font-size="13" fill="#c0392b">Không đặt bình ở đây</text>
+  <!-- Bathtub -->
+  <rect x="30" y="200" width="220" height="80" rx="14" fill="#eaf2f2" stroke="#4a7a7a" stroke-width="2"/>
+  <text x="140" y="246" text-anchor="middle" font-size="15" fill="#333">Bồn tắm</text>
+  <!-- Sink / vanity -->
+  <rect x="420" y="30" width="190" height="110" fill="#fdf6e3" stroke="#4a7a7a" stroke-width="2"/>
+  <ellipse cx="515" cy="85" rx="55" ry="28" fill="none" stroke="#2f6f8f" stroke-width="3"/>
+  <rect x="505" y="38" width="20" height="26" fill="#8ecae6" stroke="#2f6f8f" stroke-width="2"/>
+  <line x1="515" y1="38" x2="515" y2="26" stroke="#2f6f8f" stroke-width="2"/>
+  <circle cx="515" cy="22" r="4" fill="#e07a9a"/>
+  <line x1="515" y1="26" x2="505" y2="14" stroke="#2e7d32" stroke-width="2"/>
+  <line x1="515" y1="26" x2="525" y2="14" stroke="#2e7d32" stroke-width="2"/>
+  <text x="515" y="126" text-anchor="middle" font-size="15" fill="#333">Lavabo</text>
+  <!-- Vase on counter -->
+  <rect x="420" y="160" width="190" height="90" fill="#fdf6e3" stroke="#4a7a7a" stroke-width="2"/>
+  <path d="M500 235 L500 210 L530 210 L530 235 Z" fill="#8ecae6" stroke="#2f6f8f" stroke-width="2"/>
+  <line x1="515" y1="210" x2="505" y2="180" stroke="#2e7d32" stroke-width="2"/>
+  <line x1="515" y1="210" x2="515" y2="176" stroke="#2e7d32" stroke-width="2"/>
+  <line x1="515" y1="210" x2="526" y2="182" stroke="#2e7d32" stroke-width="2"/>
+  <circle cx="505" cy="176" r="5" fill="#e07a9a"/>
+  <circle cx="515" cy="172" r="5" fill="#e07a9a"/>
+  <circle cx="526" cy="178" r="5" fill="#e07a9a"/>
+  <text x="515" y="268" text-anchor="middle" font-size="14" fill="#2e7d32">Bình hoa đặt ở đây</text>
+  <!-- Window -->
+  <rect x="270" y="386" width="140" height="24" fill="#bfe3f0" stroke="#2f6f8f" stroke-width="2"/>
+  <line x1="340" y1="386" x2="340" y2="410" stroke="#2f6f8f" stroke-width="2"/>
+  <text x="340" y="376" text-anchor="middle" font-size="14" fill="#333">Cửa sổ</text>
+  <!-- Fan -->
+  <circle cx="580" cy="330" r="30" fill="none" stroke="#2f6f8f" stroke-width="3"/>
+  <line x1="580" y1="300" x2="580" y2="360" stroke="#2f6f8f" stroke-width="2"/>
+  <line x1="550" y1="330" x2="610" y2="330" stroke="#2f6f8f" stroke-width="2"/>
+  <text x="580" y="382" text-anchor="middle" font-size="14" fill="#333">Quạt hút</text>
+  <!-- Door -->
+  <rect x="30" y="330" width="110" height="60" fill="#e8e8e8" stroke="#4a7a7a" stroke-width="2"/>
+  <text x="85" y="366" text-anchor="middle" font-size="14" fill="#333">Cửa ra vào</text>
+  <!-- Arrow: steam away from vase -->
+  <path d="M250 105 Q330 105 400 105" fill="none" stroke="#c0392b" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="325" y="92" text-anchor="middle" font-size="13" fill="#c0392b">Nước bắn và hơi nước</text>
+</svg>

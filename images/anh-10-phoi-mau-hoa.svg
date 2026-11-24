@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img">
+<title>Sơ đồ ba cách phối màu hoa với nội thất</title>
+<desc>Sơ đồ tự vẽ, không phải ảnh chụp thật. Ba cách phối màu: cùng tông, tương phản, một màu chủ đạo và một màu phụ. Mỗi cách có các chấm màu minh họa bảng màu.</desc>
+<rect width="800" height="420" fill="#fdf8f0"/>
+<text x="400" y="28" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Ba cách phối màu hoa với nội thất</text>
+<g font-family="sans-serif" font-size="14" fill="#333">
+<text x="60" y="80" font-weight="bold">1. Cùng tông</text>
+<circle cx="80" cy="115" r="18" fill="#f8c8d8" stroke="#333"/><circle cx="125" cy="115" r="18" fill="#e87aa0" stroke="#333"/><circle cx="170" cy="115" r="18" fill="#c2185b" stroke="#333"/>
+<text x="210" y="120">Hồng nhạt – hồng – hồng đậm: các màu sát nhau trên bánh xe màu</text>
+<text x="60" y="170" font-weight="bold">2. Tương phản</text>
+<circle cx="80" cy="205" r="18" fill="#4caf50" stroke="#333"/><circle cx="125" cy="205" r="18" fill="#e53935" stroke="#333"/>
+<text x="210" y="210">Xanh lá – hồng đỏ: hai màu đối diện nhau trên bánh xe màu, để một màu chiếm phần lớn</text>
+<text x="60" y="260" font-weight="bold">3. Một màu chủ đạo và một màu phụ</text>
+<circle cx="80" cy="295" r="18" fill="#ffffff" stroke="#333"/><circle cx="125" cy="295" r="18" fill="#f5e6c8" stroke="#333"/><circle cx="170" cy="295" r="18" fill="#e53935" stroke="#333"/>
+<text x="210" y="300">Trắng và kem làm nền, một ít hồng đỏ làm điểm nhấn</text>
+</g>
+<text x="400" y="350" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Sơ đồ tóm tắt ba cách phối trong Bài 10. Các chấm màu chỉ minh họa, không phải màu hoa thật.</text>
+<text x="400" y="375" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho Bài 10. Nguồn cách phối: Reatimes, Petal Republic. Sơ đồ: tự vẽ bằng SVG.</text>
+</svg>

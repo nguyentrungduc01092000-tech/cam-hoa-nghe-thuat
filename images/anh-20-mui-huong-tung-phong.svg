@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-labelledby="t20 d20">
+  <title id="t20">Sơ đồ mùi hương theo từng phòng: lối vào dùng hoa thơm nồng, phòng khách dùng hoa thơm vừa tới nồng, bàn ăn và phòng ngủ chỉ dùng hoa thơm nhẹ hoặc không mùi, phòng tắm dùng được hoa thơm nồng vì nhỏ và có thông gió, bếp không dùng hoa thơm</title>
+  <desc id="d20">Sơ đồ tự vẽ, không phải ảnh chụp thật. Sơ đồ mặt bằng nhà gồm 7 phòng, mỗi phòng ghi mức mùi hoa nên dùng: lối vào rất nồng, phòng khách vừa tới nồng, bàn ăn nhẹ hoặc không mùi, phòng ngủ nhẹ, bàn làm việc nhẹ, phòng tắm nồng, bếp không mùi.</desc>
+  <rect x="0" y="0" width="800" height="520" fill="#faf7f2"/>
+  <text x="400" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#3d2c1e">Mùi hương hoa nên dùng cho từng phòng</text>
+  <text x="400" y="58" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#6b5a49">Sơ đồ tự vẽ — mức mùi tăng dần từ xanh lá sang đỏ</text>
+  <!-- Legend -->
+  <g font-family="sans-serif" font-size="14" fill="#3d2c1e">
+    <circle cx="150" cy="84" r="8" fill="#7da65c"/><text x="164" y="89">Nhẹ / không mùi</text>
+    <circle cx="330" cy="84" r="8" fill="#e0b13c"/><text x="344" y="89">Vừa</text>
+    <circle cx="430" cy="84" r="8" fill="#d97b29"/><text x="444" y="89">Nồng</text>
+    <circle cx="530" cy="84" r="8" fill="#b3402e"/><text x="544" y="89">Rất nồng</text>
+  </g>
+  <!-- Rooms -->
+  <g font-family="sans-serif" font-size="16" fill="#3d2c1e">
+    <rect x="40" y="110" width="220" height="150" fill="#fdf0e8" stroke="#b3402e" stroke-width="2"/>
+    <text x="150" y="150" text-anchor="middle" font-weight="bold">Lối vào</text>
+    <text x="150" y="178" text-anchor="middle" font-size="14">Rất nồng cũng được</text>
+    <text x="150" y="202" text-anchor="middle" font-size="14">dạ lan hương, tử đinh hương</text>
+    <circle cx="150" cy="232" r="10" fill="#b3402e"/>
+    <rect x="290" y="110" width="220" height="150" fill="#fdf3e0" stroke="#d97b29" stroke-width="2"/>
+    <text x="400" y="150" text-anchor="middle" font-weight="bold">Phòng khách</text>
+    <text x="400" y="178" text-anchor="middle" font-size="14">Vừa tới nồng</text>
+    <text x="400" y="202" text-anchor="middle" font-size="14">ly thơm, phi yến, hồng vườn</text>
+    <circle cx="400" cy="232" r="10" fill="#d97b29"/>
+    <rect x="540" y="110" width="220" height="150" fill="#eef3e6" stroke="#7da65c" stroke-width="2"/>
+    <text x="650" y="150" text-anchor="middle" font-weight="bold">Bàn ăn</text>
+    <text x="650" y="178" text-anchor="middle" font-size="14">Nhẹ hoặc không mùi</text>
+    <text x="650" y="202" text-anchor="middle" font-size="14">tulip, mao lương, lan hồ điệp</text>
+    <circle cx="650" cy="232" r="10" fill="#7da65c"/>
+    <rect x="40" y="290" width="220" height="150" fill="#eef3e6" stroke="#7da65c" stroke-width="2"/>
+    <text x="150" y="330" text-anchor="middle" font-weight="bold">Phòng ngủ</text>
+    <text x="150" y="358" text-anchor="middle" font-size="14">Nhẹ</text>
+    <text x="150" y="382" text-anchor="middle" font-size="14">đậu thơm, hồng thơm nhẹ</text>
+    <circle cx="150" cy="412" r="10" fill="#7da65c"/>
+    <rect x="290" y="290" width="220" height="150" fill="#eef3e6" stroke="#7da65c" stroke-width="2"/>
+    <text x="400" y="330" text-anchor="middle" font-weight="bold">Bàn làm việc</text>
+    <text x="400" y="358" text-anchor="middle" font-size="14">Nhẹ</text>
+    <text x="400" y="382" text-anchor="middle" font-size="14">lan Nam Phi ít cành</text>
+    <circle cx="400" cy="412" r="10" fill="#7da65c"/>
+    <rect x="540" y="290" width="110" height="150" fill="#fdf3e0" stroke="#d97b29" stroke-width="2"/>
+    <text x="595" y="330" text-anchor="middle" font-weight="bold">Phòng tắm</text>
+    <text x="595" y="358" text-anchor="middle" font-size="14">Nồng</text>
+    <text x="595" y="382" text-anchor="middle" font-size="14">dành dành</text>
+    <circle cx="595" cy="412" r="10" fill="#d97b29"/>
+    <rect x="670" y="290" width="90" height="150" fill="#eef3e6" stroke="#7da65c" stroke-width="2"/>
+    <text x="715" y="330" text-anchor="middle" font-weight="bold">Bếp</text>
+    <text x="715" y="358" text-anchor="middle" font-size="14">Không mùi</text>
+    <text x="715" y="382" text-anchor="middle" font-size="14">lá xanh</text>
+    <circle cx="715" cy="412" r="10" fill="#7da65c"/>
+  </g>
+  <text x="400" y="480" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#6b5a49">Quy tắc chung: phòng càng ở lâu, mũi càng gần bình hoa thì mùi càng phải nhẹ.</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Sơ đồ nhà bếp với vị trí đặt bình hoa xa bếp nấu">
+  <title>Sơ đồ nhà bếp: bếp nấu ở đầu trái, bình hoa đặt ở đầu tủ xa bếp, bát trái cây đặt ở đầu bàn đối diện</title>
+  <desc>Sơ đồ tự vẽ, không phải ảnh chụp thật. Sơ đồ mặt bằng nhà bếp nhìn từ trên xuống: bếp nấu ở góc trên bên trái, bình hoa đặt trên mặt tủ ở đầu xa bếp nấu, bát trái cây đặt ở đầu bàn ăn đối diện, cửa sổ ở phía dưới có rèm che nắng chiều.</desc>
+  <rect x="10" y="10" width="620" height="400" fill="#f7f3ea" stroke="#8a6d3b" stroke-width="3"/>
+  <!-- Stove area -->
+  <rect x="30" y="30" width="220" height="150" fill="#f8d7c8" stroke="#8a6d3b" stroke-width="2"/>
+  <circle cx="110" cy="80" r="26" fill="none" stroke="#c0392b" stroke-width="3"/>
+  <circle cx="180" cy="80" r="26" fill="none" stroke="#c0392b" stroke-width="3"/>
+  <circle cx="110" cy="140" r="26" fill="none" stroke="#c0392b" stroke-width="3"/>
+  <circle cx="180" cy="140" r="26" fill="none" stroke="#c0392b" stroke-width="3"/>
+  <text x="140" y="200" text-anchor="middle" font-size="15" fill="#333">Bếp nấu</text>
+  <text x="140" y="222" text-anchor="middle" font-size="13" fill="#c0392b">Không đặt bình ở đây</text>
+  <!-- Counter far from stove with vase -->
+  <rect x="420" y="30" width="190" height="110" fill="#fdf6e3" stroke="#8a6d3b" stroke-width="2"/>
+  <path d="M500 125 L500 100 L530 100 L530 125 Z" fill="#8ecae6" stroke="#2f6f8f" stroke-width="2"/>
+  <line x="515" y1="100" x2="505" y2="70" stroke="#2e7d32" stroke-width="2"/>
+  <line x="515" y1="100" x2="515" y2="66" stroke="#2e7d32" stroke-width="2"/>
+  <line x="515" y1="100" x2="525" y2="70" stroke="#2e7d32" stroke-width="2"/>
+  <circle cx="515" cy="62" r="4" fill="#e07a9a"/>
+  <text x="515" y="160" text-anchor="middle" font-size="15" fill="#333">Bình hoa ở đây</text>
+  <text x="515" y="182" text-anchor="middle" font-size="13" fill="#2e7d32">Đầu tủ xa bếp nấu</text>
+  <!-- Dining table with fruit bowl -->
+  <rect x="30" y="250" width="280" height="120" fill="#eaf2f2" stroke="#8a6d3b" stroke-width="2"/>
+  <ellipse cx="170" cy="310" rx="55" ry="20" fill="#f4a259" stroke="#8a6d3b" stroke-width="2"/>
+  <circle cx="155" cy="302" r="8" fill="#e07a9a"/>
+  <circle cx="172" cy="300" r="8" fill="#f2c14e"/>
+  <circle cx="188" cy="303" r="8" fill="#e07a9a"/>
+  <text x="170" y="350" text-anchor="middle" font-size="15" fill="#333">Bát trái cây</text>
+  <text x="170" y="372" text-anchor="middle" font-size="13" fill="#c0392b">Để xa bình hoa</text>
+  <!-- Window -->
+  <rect x="420" y="250" width="190" height="120" fill="#cfe6ef" stroke="#8a6d3b" stroke-width="2"/>
+  <line x1="420" y1="310" x2="610" y2="310" stroke="#2f6f8f" stroke-width="2"/>
+  <line x1="515" y1="250" x2="515" y2="370" stroke="#2f6f8f" stroke-width="2"/>
+  <text x="515" y="395" text-anchor="middle" font-size="15" fill="#333">Cửa sổ — che rèm khi nắng gắt</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img">
+<title>Sơ đồ bảng 12 tháng chia hai cột Bắc và Nam riêng</title>
+<desc>Sơ đồ tự vẽ, không phải ảnh chụp thật. Bảng 12 tháng với hai cột Bắc và Nam riêng, trích lại từ Phụ Liệu Hoa.</desc>
+<rect width="800" height="420" fill="#fdf8f0"/>
+<text x="400" y="28" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Bảng 12 tháng — hai cột Bắc và Nam riêng</text>
+<g font-family="sans-serif" font-size="13" fill="#333">
+<rect x="60" y="50" width="680" height="30" fill="#d5e8d4" stroke="#333"/><text x="70" y="70">Tháng</text><text x="200" y="70">Bắc</text><text x="480" y="70">Trung – Nam</text>
+<text x="70" y="105">Tháng 1</text><text x="200" y="105">Cẩm chướng, cúc, violet</text><text x="480" y="105">Mai vàng, hướng dương, đồng tiền</text>
+<text x="70" y="135">Tháng 2</text><text x="200" y="135">Hồng leo, đồng tiền</text><text x="480" y="135">Mai vàng, hướng dương, tulip nhập</text>
+<text x="70" y="165">Tháng 3</text><text x="200" y="165">Đào, cúc, ly</text><text x="480" y="165">Đào nhập, tulip, lily</text>
+<text x="70" y="195">Tháng 5</text><text x="200" y="195">Hướng dương, đồng tiền</text><text x="480" y="195">Hướng dương, đồng tiền, sen</text>
+<text x="70" y="225">Tháng 7</text><text x="200" y="225">Cúc, phi yến</text><text x="480" y="225">Cúc, dạ yến thảo, lan</text>
+<text x="70" y="255">Tháng 10</text><text x="200" y="255">Hồng leo, violet</text><text x="480" y="255">Hồng, cúc, dã quỳ</text>
+<text x="70" y="285">Tháng 12</text><text x="200" y="285">Cúc, phăng</text><text x="480" y="285">Cúc, hồng đỏ, trạng nguyên</text>
+</g>
+<text x="400" y="330" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Sơ đồ chỉ trích một phần bảng đầy đủ trong Bài 4. Bảng đầy đủ giữ riêng Bắc và Nam cho cả 12 tháng.</text>
+<text x="400" y="355" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho Bài 4. Nguồn bảng: Phụ Liệu Hoa. Sơ đồ: tự vẽ bằng SVG.</text>
+</svg>

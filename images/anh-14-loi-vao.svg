@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-labelledby="t14 d14">
+  <title id="t14">Sơ đồ lối vào: bình hoa cao đặt ở góc tường, không chắn lối đi</title>
+  <desc id="d14">Sơ đồ tự vẽ nhìn từ trên xuống, minh họa cho bài viết, không phải ảnh thật. Cửa ra vào ở phía dưới. Lối đi ở giữa giữ trống. Kệ console sát tường trái có bình hoa cao. Góc tường trên cùng bên trái đặt bình sàn cao. Vị trí giữa lối đi được đánh dấu chéo đỏ, nghĩa là không đặt bình hoa ở đó.</desc>
+  <rect width="800" height="520" fill="#fdf8f2"/>
+  <text x="400" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#5b3a29">Sơ đồ lối vào: bình hoa cao đặt ở góc tường</text>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#7a6a5f">Nhìn từ trên xuống — lối đi ở giữa luôn giữ trống</text>
+
+  <!-- Floor plan -->
+  <rect x="120" y="90" width="560" height="360" fill="#f7ead9" stroke="#8a6d4b" stroke-width="4"/>
+  <text x="400" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a6d4b">TRONG NHÀ</text>
+
+  <!-- Door at bottom -->
+  <rect x="470" y="450" width="110" height="8" fill="#fff" stroke="#8a6d4b" stroke-width="3"/>
+  <path d="M 470 450 A 110 110 0 0 1 580 340" fill="none" stroke="#8a6d4b" stroke-width="2" stroke-dasharray="6 4"/>
+  <line x1="470" y1="450" x2="470" y2="345" stroke="#8a6d4b" stroke-width="3"/>
+  <text x="525" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#5b3a29">Cửa ra vào</text>
+
+  <!-- Walkway arrow -->
+  <line x1="525" y1="420" x2="525" y2="150" stroke="#2e7d32" stroke-width="4" stroke-dasharray="12 8"/>
+  <polygon points="525,130 513,152 537,152" fill="#2e7d32"/>
+  <text x="610" y="290" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2e7d32">Lối đi</text>
+  <text x="610" y="312" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2e7d32">giữ trống</text>
+
+  <!-- Console table on left wall -->
+  <rect x="128" y="230" width="34" height="110" fill="#b08968" stroke="#5b3a29" stroke-width="2"/>
+  <text x="200" y="262" font-family="sans-serif" font-size="14" font-weight="bold" fill="#5b3a29">Kệ console</text>
+  <text x="200" y="282" font-family="sans-serif" font-size="13" fill="#5b3a29">sát tường trái</text>
+  <!-- Tall vase on console -->
+  <path d="M 138 230 L 142 196 L 150 196 L 154 230 Z" fill="#7a9e7e" stroke="#4a6b4f" stroke-width="2"/>
+  <line x1="146" y1="196" x2="146" y2="160" stroke="#4a6b4f" stroke-width="3"/>
+  <line x1="140" y1="196" x2="132" y2="164" stroke="#4a6b4f" stroke-width="2"/>
+  <line x1="152" y1="196" x2="160" y2="164" stroke="#4a6b4f" stroke-width="2"/>
+  <circle cx="146" cy="156" r="6" fill="#e8a0a0"/>
+  <circle cx="131" cy="160" r="5" fill="#e8a0a0"/>
+  <circle cx="161" cy="160" r="5" fill="#e8a0a0"/>
+  <text x="200" y="322" font-family="sans-serif" font-size="13" fill="#5b3a29">Bình cao, cành dài</text>
+
+  <!-- Corner floor vase top-left -->
+  <circle cx="185" cy="150" r="26" fill="#c98a6b" stroke="#5b3a29" stroke-width="2"/>
+  <line x1="185" y1="150" x2="185" y2="96" stroke="#4a6b4f" stroke-width="3"/>
+  <line x1="185" y1="150" x2="168" y2="104" stroke="#4a6b4f" stroke-width="2"/>
+  <line x1="185" y1="150" x2="202" y2="104" stroke="#4a6b4f" stroke-width="2"/>
+  <circle cx="185" cy="92" r="6" fill="#e8a0a0"/>
+  <circle cx="167" cy="100" r="5" fill="#e8a0a0"/>
+  <circle cx="203" cy="100" r="5" fill="#e8a0a0"/>
+  <text x="225" y="146" font-family="sans-serif" font-size="14" font-weight="bold" fill="#5b3a29">Bình sàn cao</text>
+  <text x="225" y="166" font-family="sans-serif" font-size="13" fill="#5b3a29">ở góc tường</text>
+
+  <!-- Wrong spot: middle of walkway -->
+  <circle cx="525" cy="380" r="24" fill="#e8a0a0" stroke="#b71c1c" stroke-width="2" stroke-dasharray="5 3"/>
+  <line x1="510" y1="365" x2="540" y2="395" stroke="#b71c1c" stroke-width="4"/>
+  <line x1="540" y1="365" x2="510" y2="395" stroke="#b71c1c" stroke-width="4"/>
+  <text x="525" y="432" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#b71c1c">Không đặt ở đây</text>
+  <text x="525" y="448" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#b71c1c">chắn lối đi</text>
+
+  <!-- Note -->
+  <text x="400" y="505" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#7a6a5f">Sơ đồ tự vẽ, minh họa cho bài viết, không phải ảnh thật.</text>
+</svg>

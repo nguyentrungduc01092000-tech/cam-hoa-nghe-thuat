@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img">
+<title>Sơ đồ mặt bàn thờ nhìn từ trên xuống</title>
+<desc>Sơ đồ tự vẽ, không phải ảnh chụp thật. Bình hoa bên trái, đĩa quả bên phải, bát hương ở giữa phía sau.</desc>
+<rect width="800" height="420" fill="#fdf8f0"/>
+<text x="400" y="28" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Sơ đồ mặt bàn thờ nhìn từ trên xuống — minh họa</text>
+<rect x="100" y="60" width="600" height="260" fill="#f5e6c8" stroke="#333" stroke-width="2"/>
+<g font-family="sans-serif" font-size="14" fill="#333">
+<rect x="350" y="80" width="100" height="50" fill="#c0392b" stroke="#333"/><text x="400" y="110" text-anchor="middle" fill="#fff">Bát hương</text>
+<rect x="350" y="150" width="100" height="40" fill="#d5dbdb" stroke="#333"/><text x="400" y="175" text-anchor="middle">Bài vị / ảnh thờ</text>
+<circle cx="200" cy="130" r="45" fill="#e74c3c" stroke="#333"/><text x="200" y="135" text-anchor="middle" fill="#fff">Bình hoa</text><text x="200" y="210" text-anchor="middle">Phía đông</text>
+<circle cx="600" cy="130" r="45" fill="#f39c12" stroke="#333"/><text x="600" y="135" text-anchor="middle" fill="#fff">Đĩa quả</text><text x="600" y="210" text-anchor="middle">Phía tây</text>
+<text x="400" y="260" text-anchor="middle">Đông Bình Tây Quả: cách sắp xếp nhiều gia đình làm theo</text>
+</g>
+<text x="400" y="360" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Sơ đồ chỉ minh họa cách sắp xếp nhiều gia đình làm theo, không phải quy định bắt buộc.</text>
+<text x="400" y="385" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho Bài 3. Nguồn: tự vẽ bằng SVG, không dùng ảnh mạng.</text>
+</svg>
