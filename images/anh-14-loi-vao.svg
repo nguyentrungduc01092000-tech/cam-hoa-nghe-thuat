@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-labelledby="t14 d14">
   <title id="t14">Sơ đồ lối vào: bình hoa cao đặt ở góc tường, không chắn lối đi</title>
-  <desc id="d14">Sơ đồ được vẽ riêng cho website nhìn từ trên xuống, minh họa cho bài viết, không phải ảnh thật. Cửa ra vào ở phía dưới. Lối đi ở giữa giữ trống. Kệ console sát tường trái có bình hoa cao. Góc tường trên cùng bên trái đặt bình sàn cao. Vị trí giữa lối đi được đánh dấu chéo đỏ, nghĩa là không đặt bình hoa ở đó.</desc>
+  <desc id="d14">Cửa ra vào ở phía dưới. Lối đi ở giữa giữ trống. Kệ console sát tường trái có bình hoa cao. Góc tường trên cùng bên trái đặt bình sàn cao. Vị trí giữa lối đi được đánh dấu chéo đỏ, nghĩa là không đặt bình hoa ở đó.</desc>
   <rect width="800" height="520" fill="#fdf8f2"/>
   <text x="400" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#5b3a29">Sơ đồ lối vào: bình hoa cao đặt ở góc tường</text>
   <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#7a6a5f">Nhìn từ trên xuống — lối đi ở giữa luôn giữ trống</text>
@@ -54,5 +54,5 @@
   <text x="525" y="448" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#b71c1c">chắn lối đi</text>
 
   <!-- Note -->
-  <text x="400" y="505" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#7a6a5f">Sơ đồ được vẽ riêng cho website, minh họa cho bài viết, không phải ảnh thật.</text>
+  <text x="400" y="505" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#7a6a5f">Dùng cho "Hoa cho lối vào và hành lang".</text>
 </svg>

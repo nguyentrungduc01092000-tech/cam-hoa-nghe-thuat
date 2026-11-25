@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img">
 <title>Sơ đồ ba cách phối màu hoa với nội thất</title>
-<desc>Sơ đồ được vẽ riêng cho website, không phải ảnh chụp thật. Ba cách phối màu: cùng tông, tương phản, một màu chủ đạo và một màu phụ. Mỗi cách có các chấm màu minh họa bảng màu.</desc>
+<desc>Ba cách phối màu: cùng tông, tương phản, một màu chủ đạo và một màu phụ. Mỗi cách có các chấm màu minh họa bảng màu.</desc>
 <rect width="800" height="420" fill="#fdf8f0"/>
 <text x="400" y="28" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Ba cách phối màu hoa với nội thất</text>
 <g font-family="sans-serif" font-size="14" fill="#333">
@@ -15,5 +15,5 @@
 <text x="210" y="300">Trắng và kem làm nền, một ít hồng đỏ làm điểm nhấn</text>
 </g>
 <text x="400" y="350" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Sơ đồ tóm tắt ba cách phối trong "Chọn hoa theo màu nội thất". Các chấm màu chỉ minh họa, không phải màu hoa thật.</text>
-<text x="400" y="375" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho "Chọn hoa theo màu nội thất". Nguồn cách phối: Reatimes, Petal Republic. Sơ đồ: được vẽ riêng cho website bằng SVG.</text>
+<text x="400" y="375" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho "Chọn hoa theo màu nội thất". Nguồn cách phối: Reatimes, Petal Republic.</text>
 </svg>

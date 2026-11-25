@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img">
 <title>Sơ đồ bảng tra nhanh 5 dịp lễ trong năm</title>
-<desc>Sơ đồ được vẽ riêng cho website, không phải ảnh chụp thật. Bảng tra nhanh 5 dịp lễ: 8/3, 20/10, 20/11, Valentine 14/2, Giáng sinh 25/12, với hoa thường được chọn cho từng dịp.</desc>
+<desc>Bảng tra nhanh 5 dịp lễ: 8/3, 20/10, 20/11, Valentine 14/2, Giáng sinh 25/12, với hoa thường được chọn cho từng dịp.</desc>
 <rect width="800" height="420" fill="#fdf8f0"/>
 <text x="400" y="28" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Bảng tra nhanh — 5 dịp lễ trong năm</text>
 <g font-family="sans-serif" font-size="13" fill="#333">
@@ -14,5 +14,4 @@
 <text x="400" y="310" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Sơ đồ tóm tắt bảng đầy đủ trong "Chọn hoa theo dịp lễ trong năm". Ý nghĩa từng loài ghi theo quan niệm dân gian</text>
 <text x="400" y="335" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">và theo các bài tổng hợp đã dẫn, không phải quy tắc bắt buộc.</text>
 <text x="400" y="360" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho "Chọn hoa theo dịp lễ trong năm". Nguồn bảng: Phụ Liệu Hoa, Thư viện Pháp luật, FPT Shop, Sóc Trăng Tourism.</text>
-<text x="400" y="382" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Sơ đồ: được vẽ riêng cho website bằng SVG.</text>
 </svg>

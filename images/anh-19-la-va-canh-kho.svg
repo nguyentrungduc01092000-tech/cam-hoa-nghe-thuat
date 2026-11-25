@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440" role="img">
 <title>Sơ đồ bình cắm bằng lá và cành khô</title>
-<desc>Sơ đồ được vẽ riêng cho website, không phải ảnh chụp thật. Bình gốm nặng đựng cành khô và lá xanh: cành chính cao nhất lệch sang trái, cành thứ hai nghiêng ngược sang phải, lá xanh đan chéo miệng bình thành lưới đỡ, một bông hoa nhỏ làm điểm nhấn thấp hơn cành chính.</desc>
+<desc>Bình gốm nặng đựng cành khô và lá xanh: cành chính cao nhất lệch sang trái, cành thứ hai nghiêng ngược sang phải, lá xanh đan chéo miệng bình thành lưới đỡ, một bông hoa nhỏ làm điểm nhấn thấp hơn cành chính.</desc>
 <rect width="800" height="440" fill="#fdf8f0"/>
 <text x="400" y="30" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Bình lá và cành khô: cành chính, cành ngược hướng, lưới lá đỡ</text>
 <!-- vase -->
@@ -45,5 +45,5 @@
 <text x="60" y="300">thấp hơn cành chính</text>
 </g>
 <text x="400" y="415" text-anchor="middle" font-size="12" font-family="sans-serif" fill="#666">Cành cao nhất dài khoảng gấp rưỡi đến gấp đôi chiều cao bình.</text>
-<text x="400" y="435" text-anchor="middle" font-size="12" font-family="sans-serif" fill="#666">Sơ đồ được vẽ riêng cho website bằng SVG, dùng cho "Cắm hoa bằng lá và cành khô".</text>
+<text x="400" y="435" text-anchor="middle" font-size="12" font-family="sans-serif" fill="#666">Dùng cho "Cắm hoa bằng lá và cành khô".</text>
 </svg>

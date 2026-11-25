@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-labelledby="t20 d20">
   <title id="t20">Sơ đồ mùi hương theo từng phòng: lối vào dùng hoa thơm nồng, phòng khách dùng hoa thơm vừa tới nồng, bàn ăn và phòng ngủ chỉ dùng hoa thơm nhẹ hoặc không mùi, phòng tắm dùng được hoa thơm nồng vì nhỏ và có thông gió, bếp không dùng hoa thơm</title>
-  <desc id="d20">Sơ đồ được vẽ riêng cho website, không phải ảnh chụp thật. Sơ đồ mặt bằng nhà gồm 7 phòng, mỗi phòng ghi mức mùi hoa nên dùng: lối vào rất nồng, phòng khách vừa tới nồng, bàn ăn nhẹ hoặc không mùi, phòng ngủ nhẹ, bàn làm việc nhẹ, phòng tắm nồng, bếp không mùi.</desc>
+  <desc id="d20">Sơ đồ mặt bằng nhà gồm 7 phòng, mỗi phòng ghi mức mùi hoa nên dùng: lối vào rất nồng, phòng khách vừa tới nồng, bàn ăn nhẹ hoặc không mùi, phòng ngủ nhẹ, bàn làm việc nhẹ, phòng tắm nồng, bếp không mùi.</desc>
   <rect x="0" y="0" width="800" height="520" fill="#faf7f2"/>
   <text x="400" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#3d2c1e">Mùi hương hoa nên dùng cho từng phòng</text>
-  <text x="400" y="58" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#6b5a49">Sơ đồ được vẽ riêng cho website — mức mùi tăng dần từ xanh lá sang đỏ</text>
+  <text x="400" y="58" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#6b5a49">Mức mùi tăng dần từ xanh lá sang đỏ</text>
   <!-- Legend -->
   <g font-family="sans-serif" font-size="14" fill="#3d2c1e">
     <circle cx="150" cy="84" r="8" fill="#7da65c"/><text x="164" y="89">Nhẹ / không mùi</text>

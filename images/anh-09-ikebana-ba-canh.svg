@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img">
 <title>Sơ đồ ba cành chính Ikebana trong bình nông</title>
-<desc>Sơ đồ được vẽ riêng cho website, không phải ảnh chụp thật. Bình nông suiban với kenzan ở đáy và ba cành chính: shin dài nhất nghiêng nhẹ về sau, soe dài thứ hai nghiêng 45 độ sang trái, hikae ngắn nhất nghiêng 75 độ về phía trước bên phải.</desc>
+<desc>Bình nông suiban với kenzan ở đáy và ba cành chính: shin dài nhất nghiêng nhẹ về sau, soe dài thứ hai nghiêng 45 độ sang trái, hikae ngắn nhất nghiêng 75 độ về phía trước bên phải.</desc>
 <rect width="800" height="420" fill="#fdf8f0"/>
 <text x="400" y="28" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Ba cành chính Ikebana — dáng thẳng đứng trong bình nông</text>
 <g font-family="sans-serif" font-size="13" fill="#333">
@@ -19,5 +19,5 @@
 <text x="540" y="256">nghiêng 75 độ về trước phải</text>
 <text x="400" y="382" text-anchor="middle" font-size="12" fill="#666">Bình nông suiban — đường kính 30 cm, cao 10 cm (ví dụ trong "Ikebana cơ bản cho người mới")</text>
 </g>
-<text x="400" y="408" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Tỉ lệ ví dụ: shin khoảng 60 cm, soe khoảng 40 cm, hikae khoảng 27 cm. Sơ đồ: được vẽ riêng cho website bằng SVG.</text>
+<text x="400" y="408" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Tỉ lệ ví dụ: shin khoảng 60 cm, soe khoảng 40 cm, hikae khoảng 27 cm.</text>
 </svg>

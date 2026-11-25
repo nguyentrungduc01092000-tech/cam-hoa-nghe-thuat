@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img">
 <title>Sơ đồ bảng theo dõi hoa 7 ngày</title>
-<desc>Sơ đồ được vẽ riêng cho website, không phải ảnh chụp thật. Bảng trống 7 hàng để người đọc tự điền mỗi ngày.</desc>
+<desc>Bảng trống 7 hàng để người đọc tự điền mỗi ngày.</desc>
 <rect width="800" height="420" fill="#fdf8f0"/>
 <text x="400" y="28" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Bảng theo dõi hoa 7 ngày — mẫu trống để tự điền</text>
 <g font-family="sans-serif" font-size="13" fill="#333">
@@ -15,5 +15,5 @@
 <text x="70" y="280">Ngày 7</text><text x="170" y="280">Ghi lại: còn tươi bao nhiêu bông?</text>
 </g>
 <text x="400" y="330" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Bảng này là mẫu trống, không phải kết quả thử nghiệm. Bạn in ra hoặc chép vào sổ tay để tự điền.</text>
-<text x="400" y="355" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho "Giữ hoa tươi lâu". Nguồn: được vẽ riêng cho website bằng SVG, không dùng ảnh mạng.</text>
+<text x="400" y="355" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho "Giữ hoa tươi lâu".</text>
 </svg>

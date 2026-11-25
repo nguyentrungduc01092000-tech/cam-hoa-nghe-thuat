@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img">
 <title>Sơ đồ bốn kiểu cắm hoa: tam giác, tròn, bán nguyệt, chữ L</title>
-<desc>Sơ đồ được vẽ riêng cho website, không phải ảnh chụp thật. Bốn ô minh họa hình dáng tổng thể của bốn kiểu cắm hoa.</desc>
+<desc>Bốn ô minh họa hình dáng tổng thể của bốn kiểu cắm hoa.</desc>
 <rect width="800" height="420" fill="#fdf8f0"/>
-<text x="400" y="28" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Bốn kiểu cắm hoa — sơ đồ minh họa, không phải ảnh chụp thật</text>
+<text x="400" y="28" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Bốn kiểu cắm hoa</text>
 <g font-family="sans-serif" font-size="14" fill="#333">
 <text x="100" y="70" text-anchor="middle">Tam giác</text>
 <polygon points="100,90 60,180 140,180" fill="none" stroke="#c0392b" stroke-width="2"/>
@@ -30,5 +30,5 @@
 <text x="700" y="255" text-anchor="middle">một nhánh ngang</text>
 </g>
 <text x="400" y="320" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Hình tròn đỏ, vàng, cam là hoa chính và hoa phụ; hình tròn xanh là lá. Sơ đồ chỉ minh họa hình dáng tổng thể.</text>
-<text x="400" y="345" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho "Chọn kiểu cắm hoa theo chỗ đặt". Nguồn: được vẽ riêng cho website bằng SVG, không dùng ảnh mạng.</text>
+<text x="400" y="345" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho "Chọn kiểu cắm hoa theo chỗ đặt".</text>
 </svg>

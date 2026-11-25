@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img">
 <title>Sơ đồ mặt bàn thờ nhìn từ trên xuống</title>
-<desc>Sơ đồ được vẽ riêng cho website, không phải ảnh chụp thật. Bình hoa bên trái, đĩa quả bên phải, bát hương ở giữa phía sau.</desc>
+<desc>Bình hoa bên trái, đĩa quả bên phải, bát hương ở giữa phía sau.</desc>
 <rect width="800" height="420" fill="#fdf8f0"/>
 <text x="400" y="28" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Sơ đồ mặt bàn thờ nhìn từ trên xuống — minh họa</text>
 <rect x="100" y="60" width="600" height="260" fill="#f5e6c8" stroke="#333" stroke-width="2"/>
@@ -12,5 +12,5 @@
 <text x="400" y="260" text-anchor="middle">Đông Bình Tây Quả: cách sắp xếp nhiều gia đình làm theo</text>
 </g>
 <text x="400" y="360" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Sơ đồ chỉ minh họa cách sắp xếp nhiều gia đình làm theo, không phải quy định bắt buộc.</text>
-<text x="400" y="385" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho "Cắm hoa bàn thờ ngày Tết". Nguồn: được vẽ riêng cho website bằng SVG, không dùng ảnh mạng.</text>
+<text x="400" y="385" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho "Cắm hoa bàn thờ ngày Tết".</text>
 </svg>
