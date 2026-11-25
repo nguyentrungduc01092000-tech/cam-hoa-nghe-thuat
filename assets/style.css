@@ -25,7 +25,7 @@ ol.sources li { margin: 0.6rem 0; overflow-wrap: anywhere; }
 .warning { background: #fdf0ef; border: 2px solid #b3261e; border-radius: 6px; padding: 0.8rem 1rem; }
 .warning strong { color: #b3261e; }
 figure { margin: 1.2rem 0; text-align: center; }
-figure img { max-width: 100%; height: auto; border: 1px solid #d8e5da; border-radius: 6px; background: #fff; }
+figure img { width: 100%; max-width: 100%; height: auto; border: 1px solid #d8e5da; border-radius: 6px; background: #fff; }
 figcaption { font-size: 0.92rem; color: #5a6b5e; margin-top: 0.4rem; }
 .table-wrap { overflow-x: auto; margin: 1rem 0; }
 table { border-collapse: collapse; width: 100%; font-size: 0.97rem; }
