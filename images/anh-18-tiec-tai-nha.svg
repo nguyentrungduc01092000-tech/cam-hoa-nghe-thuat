@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img">
 <title>Sơ đồ lịch làm việc cho tiệc tại nhà</title>
-<desc>Sơ đồ tự vẽ, không phải ảnh chụp thật. Lịch làm việc cho tiệc tại nhà: 2–3 ngày trước tiệc nhận hoa và ngâm nước, hôm trước tiệc cắm bình lớn, sáng hôm tiệc cắm lọ nhỏ và châm nước, giờ tiệc đặt bình ra đúng chỗ và phun sương nhẹ.</desc>
+<desc>Sơ đồ được vẽ riêng cho website, không phải ảnh chụp thật. Lịch làm việc cho tiệc tại nhà: 2–3 ngày trước tiệc nhận hoa và ngâm nước, hôm trước tiệc cắm bình lớn, sáng hôm tiệc cắm lọ nhỏ và châm nước, giờ tiệc đặt bình ra đúng chỗ và phun sương nhẹ.</desc>
 <rect width="800" height="420" fill="#fdf8f0"/>
 <text x="400" y="28" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Lịch làm việc cho tiệc tại nhà</text>
 <g font-family="sans-serif" font-size="13" fill="#333">
@@ -9,6 +9,6 @@
 <rect x="60" y="194" width="680" height="52" fill="#dae8fc" stroke="#333"/><text x="70" y="216">Sáng hôm tiệc</text><text x="70" y="236">Cắm nốt lọ nhỏ, châm thêm nước vào các bình lớn</text>
 <rect x="60" y="266" width="680" height="52" fill="#f4cccc" stroke="#333"/><text x="70" y="288">Giờ tiệc</text><text x="70" y="308">Đặt bình ra đúng chỗ, phun sương nhẹ, kiểm tra mực nước lần cuối</text>
 </g>
-<text x="400" y="350" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Sơ đồ tóm tắt bảng lịch làm việc trong Bài 18. Các con số theo Ottawa Flowers và FiftyFlowers.</text>
-<text x="400" y="375" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho Bài 18. Sơ đồ: tự vẽ bằng SVG.</text>
+<text x="400" y="350" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Sơ đồ tóm tắt bảng lịch làm việc trong "Hoa cho tiệc tại nhà". Các con số theo Ottawa Flowers và FiftyFlowers.</text>
+<text x="400" y="375" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho "Hoa cho tiệc tại nhà". Sơ đồ: được vẽ riêng cho website bằng SVG.</text>
 </svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img">
+<title>Sơ đồ ba đợt mua dụng cụ theo kiểu cắm</title>
+<desc>Sơ đồ được vẽ riêng cho website, không phải ảnh chụp thật. Ba đợt mua: đợt 1 kéo, bình và dao dùng chung; đợt 2 xốp, băng dính, kenzan và lưới gà theo kiểu cắm; đợt 3 giấy gói, ruy băng, bình xịt và xô dưỡng.</desc>
+<rect width="800" height="420" fill="#fdf8f0"/>
+<text x="400" y="28" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#333">Ba đợt mua dụng cụ — theo kiểu cắm</text>
+<g font-family="sans-serif" font-size="14" fill="#333">
+<rect x="60" y="60" width="200" height="180" fill="#d5e8d4" stroke="#333"/><text x="160" y="85" text-anchor="middle">Đợt 1: Mua trước</text><text x="160" y="105" text-anchor="middle">dùng chung</text><text x="160" y="140" text-anchor="middle">Kéo cắt cành</text><text x="160" y="165" text-anchor="middle">Bình chứa nước</text><text x="160" y="190" text-anchor="middle">Dao nhỏ</text><text x="160" y="220" text-anchor="middle">3 món</text>
+<rect x="300" y="60" width="200" height="180" fill="#fdebd0" stroke="#333"/><text x="400" y="85" text-anchor="middle">Đợt 2: Giữ dáng</text><text x="400" y="105" text-anchor="middle">theo kiểu cắm</text><text x="400" y="140" text-anchor="middle">Xốp + băng dính</text><text x="400" y="165" text-anchor="middle">Kenzan 7–10 cm</text><text x="400" y="190" text-anchor="middle">Lưới gà</text><text x="400" y="220" text-anchor="middle">giỏ, hộp, khay nông</text>
+<rect x="540" y="60" width="200" height="180" fill="#d6eaf8" stroke="#333"/><text x="640" y="85" text-anchor="middle">Đợt 3: Mang đi</text><text x="640" y="105" text-anchor="middle">và chăm sau</text><text x="640" y="140" text-anchor="middle">Giấy gói, ruy băng</text><text x="640" y="165" text-anchor="middle">Bình xịt nước</text><text x="640" y="190" text-anchor="middle">Xô dưỡng hoa</text><text x="640" y="220" text-anchor="middle">khi tặng, khi chăm</text>
+</g>
+<text x="400" y="285" text-anchor="middle" font-size="14" font-family="sans-serif" fill="#333">Chỉ cần đợt 1 là cắm được bình hoa đầu tiên.</text>
+<text x="400" y="310" text-anchor="middle" font-size="14" font-family="sans-serif" fill="#333">Đợt 2 và đợt 3 mua sau, theo kiểu cắm bạn chọn.</text>
+<text x="400" y="345" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Sơ đồ chỉ minh họa cách mua theo đợt, không phải ảnh chụp thật.</text>
+<text x="400" y="370" text-anchor="middle" font-size="13" font-family="sans-serif" fill="#666">Dùng cho "Dụng cụ cắm hoa cho người mới". Nguồn: được vẽ riêng cho website bằng SVG, không dùng ảnh mạng.</text>
+</svg>
